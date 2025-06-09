@@ -1,7 +1,7 @@
 ### 1.启动项目
 
 1.进入项目目录
-cd vue3-pbstar-books
+cd vue3-books
 2.安装依赖
 npm install
 3.运行项目前端模块
