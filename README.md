@@ -83,7 +83,7 @@ src
 
 ### 技术栈
 - **前端框架**：Vue 3
-- **状态管理**：可能使用 `Pinia` 或 `Vuex`（从 `src/stores/book.ts` 推测）
+- **状态管理**：`Pinia`  `Vuex`
 - **路由管理**：`vue-router`
 - **UI 框架**：`Element Plus`
 - **构建工具**：Vite
